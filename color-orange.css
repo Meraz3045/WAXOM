@@ -1,0 +1,155 @@
+.menu_fix{
+	background: linear-gradient(to right, #FF9600 0%, #AE9527 100%);
+}
+
+.main_menu ul li a:hover{
+	color: blue;
+}
+
+.banner_slider .item::after{
+	background: rgba(255, 149, 0, 0.2);
+}
+
+.banner_txt h1 {
+	color: #FF9600;
+}
+
+.banner_txt a{
+	padding: 13px 34px 10px 34px;
+	background: #FF9600;
+	box-shadow: 0 3px 0 0 #AE9527;
+	transition: all linear .3s;
+}
+
+.banner_txt a:hover{
+	background: #AE9527;
+	box-shadow: 0 3px 0 0 #FF9600;
+}
+
+.next:hover{
+	color: #FF9600;
+}
+
+.prev:hover{
+	color: #FF9600;
+}
+.service_col:hover i{
+	color: #FF9600;
+}
+
+.service_col:hover h2{
+	color: #FF9600;
+}
+
+.service_col:hover:after{
+	background: #AE9527;
+}
+
+#slider{
+	background: rgba(255, 149, 0, 0.2);
+}
+
+.common_head h2{
+	color: #FF9600;
+}
+
+#theme{
+	background: linear-gradient(to right, #FF9600 0%, #AE9527 100%);
+}
+
+.theme_col h2 span{
+	color: blue;
+}
+
+.theme_col a{
+	box-shadow: 0 3px 0 0 #AE9527;
+	background: #FF9600;
+	transition: all linear .3s;
+}
+
+.theme_col a:hover{
+	box-shadow: 0 3px 0 0 #FF9600;
+	background: #AE9527;
+}
+
+#project{
+	background: rgba(255, 149, 0, 0.2);
+}
+
+.project_menu  button:hover{
+	background: #FF9600;
+	border: 1px solid #FF9600;
+}
+
+.project_col:hover .project_txt h2{
+	color: #FF9600;
+}
+
+.project_btn a{
+	background: #FF9600;
+	box-shadow: 0 3px 0 0 #AE9527;
+	transition: all linear .3s;
+}
+
+.project_btn a:hover{
+	background: #AE9527;
+	box-shadow: 0 3px 0 0 #FF9600;
+}
+
+.project_img .overlay ul li a:hover{
+	color: #FF9600;
+}
+
+.port_align ul li i{
+	color: #FF9600;
+}
+
+#review{
+	background: linear-gradient(to right, #FF9600 0%, #AE9527 100%);
+}
+
+.review_col p{
+	color: blue;
+}
+
+.recent_col:hover .recent_txt h2{
+	color: #FF9600;
+}
+
+.recent_col:hover .recent_txt p span{
+	color: #FF9600;
+}
+
+.rec_next:hover{
+	color: #FF9600;
+}
+
+.rec_prev:hover{
+	color: #FF9600;
+}
+
+#logo_part::after{
+	background:  rgba(255, 149, 0, 0.2);
+	z-index: -1;
+}
+
+.footer_bottom{
+	background: linear-gradient(to right, #FF9600 0%, #AE9527 100%);
+}
+
+.footer_bottom_left ul li a:hover{
+	color: #fff;
+}
+
+.footer_bottom_right ul li a{
+	color: blue;
+}
+
+.back_top{
+	background: #FF9600 ;
+}
+
+.back_top:hover{
+	background: #AE9527 ;
+}
+  

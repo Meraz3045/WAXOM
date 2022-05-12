@@ -1,0 +1,155 @@
+.menu_fix{
+	background: linear-gradient(to right, #4bda28 0%, #1DF7B3 100%);
+}
+
+.main_menu ul li a:hover{
+	color: blue;
+}
+
+.banner_slider .item::after{
+	background: rgba(150, 246, 216, 0.3);
+}
+
+.banner_txt h1 {
+	color: #4bda28;
+}
+
+.banner_txt a{
+	padding: 13px 34px 10px 34px;
+	background: #4bda28;
+	box-shadow: 0 3px 0 0 #1DF7B3;
+	transition: all linear .3s;
+}
+
+.banner_txt a:hover{
+	background: #1DF7B3;
+	box-shadow: 0 3px 0 0 #4bda28;
+}
+
+.next:hover{
+	color: #4bda28;
+}
+
+.prev:hover{
+	color: #4bda28;
+}
+.service_col:hover i{
+	color: #4bda28;
+}
+
+.service_col:hover h2{
+	color: #4bda28;
+}
+
+.service_col:hover:after{
+	background: #1DF7B3;
+}
+
+#slider{
+	background: rgba(150, 246, 216, 0.3);
+}
+
+.common_head h2{
+	color: #4bda28;
+}
+
+#theme{
+	background: linear-gradient(to right, #4bda28 0%, #1DF7B3 100%);
+}
+
+.theme_col h2 span{
+	color: blue;
+}
+
+.theme_col a{
+	box-shadow: 0 3px 0 0 #1DF7B3;
+	background: #4bda28;
+	transition: all linear .3s;
+}
+
+.theme_col a:hover{
+	box-shadow: 0 3px 0 0 #4bda28;
+	background: #1DF7B3;
+}
+
+#project{
+	background: rgba(150, 246, 216, 0.3);
+}
+
+.project_menu  button:hover{
+	background: #4bda28;
+	border: 1px solid #4bda28;
+}
+
+.project_col:hover .project_txt h2{
+	color: #4bda28;
+}
+
+.project_btn a{
+	background: #4bda28;
+	box-shadow: 0 3px 0 0 #1DF7B3;
+	transition: all linear .3s;
+}
+
+.project_btn a:hover{
+	background: #1DF7B3;
+	box-shadow: 0 3px 0 0 #4bda28;
+}
+
+.project_img .overlay ul li a:hover{
+	color: #4bda28;
+}
+
+.port_align ul li i{
+	color: #4bda28;
+}
+
+#review{
+	background: linear-gradient(to right, #4bda28 0%, #1DF7B3 100%);
+}
+
+.review_col p{
+	color: blue;
+}
+
+.recent_col:hover .recent_txt h2{
+	color: #4bda28;
+}
+
+.recent_col:hover .recent_txt p span{
+	color: #4bda28;
+}
+
+.rec_next:hover{
+	color: #4bda28;
+}
+
+.rec_prev:hover{
+	color: #4bda28;
+}
+
+#logo_part::after{
+	background:  rgba(150, 246, 216, 0.3);
+	z-index: -1;
+}
+
+.footer_bottom{
+	background: linear-gradient(to right, #4bda28 0%, #1DF7B3 100%);
+}
+
+.footer_bottom_left ul li a:hover{
+	color: #fff;
+}
+
+.footer_bottom_right ul li a{
+	color: blue;
+}
+
+.back_top{
+	background: #4bda28 ;
+}
+
+.back_top:hover{
+	background: #1DF7B3 ;
+}
+  
